@@ -2,10 +2,10 @@
 <h3 align="center">Backend & DevOps Engineer | Java | Spring Boot | AWS | Docker | CI/CD</h3>
 
 <p align="center">
-  <a href="mailto:morarhib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:contact@mouadrarhib.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/rarhibmouad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mouadrarhib"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://mouad-rarhib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.mouadrarhib.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -98,8 +98,8 @@ With hands-on experience in **Java**, **Spring Boot**, **AWS**, **Docker**, and 
 
 ## 📫 Let's Connect
 
-- 📧 Email: [morarhib@gmail.com](mailto:morarhib@gmail.com)  
+- 📧 Email: [contact@mouadrarhib.com](mailto:contact@mouadrarhib.com)  
 - 💼 LinkedIn: [linkedin.com/in/rarhibmouad](https://www.linkedin.com/in/rarhibmouad)  
-- 🌐 Portfolio: [mouad-rarhib.vercel.app](https://mouad-rarhib.vercel.app)  
+- 🌐 Portfolio: [https://www.mouadrarhib.com/](https://www.mouadrarhib.com/)  
 
 Thanks for visiting my GitHub! 🚀  
