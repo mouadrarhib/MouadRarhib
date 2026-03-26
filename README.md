@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a8cff,100:00c6ff&height=200&section=header&text=Mouad%20Rarhib&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20DevOps%20Engineer&descAlignY=60&descSize=22&descColor=a0cfff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a8cff,100:00c6ff&height=200&section=header&text=Mouad%20Rarhib&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descSize=22&descColor=a0cfff" />
 
 <!-- Animated typing effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Engineer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices;AWS+%7C+Docker+%7C+Jenkins+%7C+CI%2FCD;Building+Secure%2C+Scalable+Systems+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+Spring+Boot;Flutter+%7C+TypeScript+%7C+Supabase;Docker+%7C+GitHub+Actions+%7C+AWS+%7C+CI%2FCD;Building+Secure%2C+Scalable+Cross-Platform+Apps+%F0%9F%94%92" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,70 +37,57 @@
 
 ```yaml
 name: Mouad Rarhib
-role: Backend & DevOps Engineer
-location: France 🇫🇷 | Morocco 🇲🇦
-education:
-  - Master's in Internet Technology – Software Option | Université de Pau (2023–2025)
-  - Master's in Big Data | Suptechnology, Morocco (2023–2025)
-  - Bachelor's in Internet & Mobile Dev / MIAGE | ULCO & Suptechnology (2020–2023)
+role: Full Stack Software Engineer
+location: Casablanca, Morocco 🇲🇦
 specialties:
-  - Spring Boot Microservices & REST APIs
-  - JWT Security & Role-Based Access Control
-  - AWS Cloud Deployments & Docker Containerization
-  - CI/CD Pipelines (Jenkins, GitHub Actions)
+  - React.js + TypeScript dynamic interfaces & Flutter cross-platform apps
+  - Secure backends with Node.js (Express), Spring Boot, JWT & RBAC
+  - Database design & optimization — PostgreSQL, MySQL, SQL Server, Supabase
+  - CI/CD automation with Docker, GitHub Actions & Jenkins
+education:
+  - Double Master's — Big Data & AI (Sup Technology) + Internet Technologies (Univ. de Pau)
+  - Double Bachelor's — Web & Mobile Dev (ULCO) + Computer Engineering MIAGE (Sup Technology)
 languages: [Arabic (Native), French (Professional), English (Professional)]
 ```
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-### 🏢 Backend & DevOps Intern — **E-Ambition** *(Jan 2025 – Jul 2025)*
-- 🔐 Designed and secured REST APIs with **Spring Boot**, **JWT**, and RBAC  
-- ⚙️ Automated deployments using **Jenkins** & **Docker** → reduced manual errors by **40%**  
-- ☁️ Deployed microservices on **AWS EC2**, improving uptime and reliability  
-- 🤝 Worked in an Agile team, contributing to sprint planning and code reviews  
+### 🏢 Software Engineer — **Auto Hall** *(Sep 2025 – Present)*
+- 🏗️ Architected a web app for tracking subsidiary objectives with **RBAC** and complete audit trails  
+- ⚡ Engineered a containerized full-stack solution — **Node.js/Express** backend + **React/TypeScript** frontend + Dockerized **SQL Server**  
+- 🚀 Reduced production deployment time by **30%** with automated **GitHub Actions** CI/CD pipelines  
+- 🤝 Collaborated cross-functionally with 5 business units (Data, IT, Marketing, Sales, Executive) to translate complex requirements  
 
-### 💻 Freelance Java Backend Developer — **Fiverr** *(Nov 2024 – Present)*
-- 🚀 Delivered scalable APIs with **Spring Boot** & **PostgreSQL** for international clients  
-- 🚗 Built a **Car Rental Platform** with Angular frontend, authentication & email notifications  
-- 🔄 Automated deployments with **GitHub Actions** → zero-downtime releases  
-- ⭐ Maintained high client satisfaction with on-time, well-documented solutions  
+### 🏢 Backend & DevOps Engineer — **E-Ambition** *(May 2024 – Nov 2024)*
+- 🔐 Engineered secure REST APIs with **Spring Boot** and optimized SQL queries → reduced response times by **25%**  
+- ⚙️ Accelerated release cycles by **40%** via automated **AWS EC2** deployments using **Jenkins** and **Docker**  
+- 🤝 Drove continuous integration in an Agile team environment  
+
+### 📱 Mobile Developer — **MICHOQ** *(Apr 2023 – Jul 2023)*
+- 📲 Delivered a robust cross-platform mobile application using **Flutter**  
+- 🔄 Architected seamless integration with an enterprise **ERP system** for real-time data synchronization  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☕ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
-</p>
+<div align="center">
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
-</p>
+<!-- Row 1: Full stack core -->
+<img src="https://skillicons.dev/icons?i=react,ts,js,angular,flutter,nodejs,express&perline=7&theme=dark" />
 
-### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,githubactions,linux,bash&theme=dark" />
-</p>
+<!-- Row 2: Backend & infra -->
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,jenkins,githubactions,linux&perline=7&theme=dark" />
 
-### 🎨 Frontend (Projects)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
-</p>
+<!-- Row 3: Databases & tools -->
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,git,github,idea,vscode&perline=7&theme=dark" />
 
-### 🧪 Testing & Quality
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,sonarqube&theme=dark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" height="48" width="48" alt="JUnit" style="vertical-align:middle; margin-left:8px" />
-</p>
+<!-- Row 4: Additional -->
+<img src="https://skillicons.dev/icons?i=html,css,bash,postman,swagger,maven&perline=7&theme=dark" />
 
-### 🔧 Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
-</p>
+</div>
 
 ---
 
@@ -118,8 +105,16 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 <br/><br/>
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadrarhib&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<!-- 🐍 Animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -131,6 +126,7 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
+| **Objectives Tracker** | Web app for subsidiary objective tracking with RBAC & audit trails | Node.js, React, SQL Server, Docker |
 | **AuthJWT-SpringBoot** | Secure auth system with JWT & email verification | Java, Spring Boot, JWT |
 | **Car Rental Dashboard** | Vehicle, booking & payment management platform | Spring Boot, Angular, PostgreSQL |
 | **Job Application Tracker** | Recruiter & job application management backend | Java, Spring Boot, REST |
@@ -150,17 +146,29 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 ---
 
+## 📚 Education
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|---|---|---|
+| Master's in Big Data & AI | Sup Technology, Casablanca 🇲🇦 | 2023 – 2025 |
+| Master's in Internet Technologies (Software Eng.) | Université de Pau, France 🇫🇷 | 2023 – 2025 |
+| Bachelor's in Web & Mobile Development | ULCO, France 🇫🇷 | 2020 – 2023 |
+| Bachelor's in Computer Engineering (MIAGE) | Sup Technology, Casablanca 🇲🇦 | 2020 – 2023 |
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-💬 Open to **backend engineering roles**, **freelance projects**, and **open-source collaborations**.
+💬 Open to **full stack engineering roles**, **freelance projects**, and **open-source collaborations**.
 
 | Channel | Link |
 |---|---|
 | 📧 Email | [contact@mouadrarhib.com](mailto:contact@mouadrarhib.com) |
 | 💼 LinkedIn | [linkedin.com/in/rarhibmouad](https://www.linkedin.com/in/rarhibmouad) |
 | 🌐 Portfolio | [mouadrarhib.com](https://www.mouadrarhib.com/) |
+| 📞 Phone | +212 629 525 636 |
 
 <br/>
 
