@@ -95,13 +95,17 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mouadrarhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadrarhib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouadrarhib&theme=tokyonight" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouadrarhib&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadrarhib&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouadrarhib&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mouadrarhib&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -110,11 +114,7 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 <br/><br/>
 
 <!-- 🐍 Animated contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mouadrarhib/mouadrarhib/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -141,7 +141,7 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouadrarhib&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mouadrarhib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
