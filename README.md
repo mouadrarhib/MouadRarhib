@@ -40,34 +40,45 @@ name: Mouad Rarhib
 role: Full Stack Software Engineer
 location: Casablanca, Morocco 🇲🇦
 specialties:
-  - React.js + TypeScript dynamic interfaces & Flutter cross-platform apps
-  - Secure backends with Node.js (Express), Spring Boot, JWT & RBAC
-  - Database design & optimization — PostgreSQL, MySQL, SQL Server, Supabase
-  - CI/CD automation with Docker, GitHub Actions & Jenkins
+  - Java & Spring Boot backends — REST APIs, JWT & role-based access
+  - Full-stack development with React, TypeScript & PostgreSQL
+  - Backend testing and CI/CD with JUnit, Mockito, Docker, GitHub Actions & Jenkins
+  - LLM tool calling and PDF retrieval (RAG) in separate personal projects
 education:
-  - Double Master's — Big Data & AI (Sup Technology) + Internet Technologies (Univ. de Pau)
-  - Double Bachelor's — Web & Mobile Dev (ULCO) + Computer Engineering MIAGE (Sup Technology)
-languages: [Arabic (Native), French (Professional), English (Professional)]
+  - Master en informatique — Technologies de l’Internet (Université de Pau)
+  - Diplôme Bac+5 — Big Data et Intelligence Artificielle (Sup’Technology)
+  - Licence professionnelle — Développement Internet et Mobile (ULCO)
+  - Diplôme Bac+3 — Ingénierie informatique, option MIAGE (Sup’Technology)
+languages: [Arabic (Native), French (Fluent), English (Professional)]
 ```
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Software Engineer — **Auto Hall** *(Sep 2025 – Present)*
-- 🏗️ Architected a web app for tracking subsidiary objectives with **RBAC** and complete audit trails  
-- ⚡ Engineered a containerized full-stack solution — **Node.js/Express** backend + **React/TypeScript** frontend + Dockerized **SQL Server**  
-- 🚀 Reduced production deployment time by **30%** with automated **GitHub Actions** CI/CD pipelines  
-- 🤝 Collaborated cross-functionally with 5 business units (Data, IT, Marketing, Sales, Executive) to translate complex requirements  
+### 🏢 Software Engineer — **OMBRIVA LLC** *(Oct 2026 – Present)*
+- 🧩 Develop SaaS products independently, including **Depthly**, a React/TypeScript and Supabase app for focus sessions, tasks, and analytics  
+- 💳 Implemented **Lemon Squeezy** webhooks that verify signatures before updating subscription access  
+- 🚧 Built the **Outrelis** prelaunch waitlist and an earlier Python/Streamlit prototype; the broader application is in development  
 
-### 🏢 Backend & DevOps Engineer — **E-Ambition** *(May 2024 – Nov 2024)*
-- 🔐 Engineered secure REST APIs with **Spring Boot** and optimized SQL queries → reduced response times by **25%**  
-- ⚙️ Accelerated release cycles by **40%** via automated **AWS EC2** deployments using **Jenkins** and **Docker**  
-- 🤝 Drove continuous integration in an Agile team environment  
+### 🏢 Full-Stack Engineering Intern — **FAHAM SARLAU** *(Apr 2026 – Oct 2026)*
+- 🛒 Built **React/Spring Boot** e-commerce features and **PostgreSQL**-backed REST APIs with JPA filters and Redis caching  
+- 💳 Integrated **Stripe** webhooks with signature verification to update order status  
+- ✅ Tested backend behavior with **JUnit** and **Mockito** and used SonarQube for code quality  
 
-### 📱 Mobile Developer — **MICHOQ** *(Apr 2023 – Jul 2023)*
-- 📲 Delivered a robust cross-platform mobile application using **Flutter**  
-- 🔄 Architected seamless integration with an enterprise **ERP system** for real-time data synchronization  
+### 🏢 Software Development Intern (Final-Year Project) — **Groupe Auto Hall** *(Sep 2025 – Nov 2025)*
+- 🏗️ Built a **React/TypeScript** sales dashboard and **Express/Sequelize** APIs backed by **SQL Server**  
+- 🔐 Added role-based permissions, input validation, and audit trails  
+- 📈 Integrated a **Python** script through Node.js to estimate sales targets three months ahead  
+
+### 🏢 Web Development Intern — **E-Ambition** *(May 2024 – Nov 2024)*
+- 🔐 Built **Spring Boot** REST APIs for tasks, users, and time tracking with JWT and role-based access  
+- ✅ Tested with **JUnit** and **Mockito**, with about **80% test coverage** measured by JaCoCo  
+- ⚙️ Contributed to delivery on **AWS EC2** using **Jenkins** and **Docker**  
+
+### 📱 Mobile Development Intern — **MICHOC** *(Apr 2023 – Jun 2023)*
+- 📲 Built responsive **Flutter/Dart** features connected to **Sage X3** through REST APIs  
+- 🔄 Monitored app performance with **Firebase**  
 
 ---
 
@@ -75,17 +86,34 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 <div align="center">
 
-<!-- Row 1: Full stack core -->
-<img src="https://skillicons.dev/icons?i=react,ts,js,angular,flutter,nodejs,express&perline=7&theme=dark" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,maven&perline=7&theme=dark" alt="Java, Spring Boot, Hibernate, Node.js, Express, Maven" />
 
-<!-- Row 2: Backend & infra -->
-<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,jenkins,githubactions,linux&perline=7&theme=dark" />
+<!-- Frontend & mobile -->
+<img src="https://skillicons.dev/icons?i=react,ts,js,angular,flutter,dart&perline=7&theme=dark" alt="React, TypeScript, JavaScript, Angular, Flutter, Dart" />
 
-<!-- Row 3: Databases & tools -->
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,git,github,idea,vscode&perline=7&theme=dark" />
+<!-- Data & messaging -->
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,redis,kafka,firebase&perline=7&theme=dark" alt="PostgreSQL, Supabase, Redis, Apache Kafka, Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="Microsoft SQL Server" />
 
-<!-- Row 4: Additional -->
-<img src="https://skillicons.dev/icons?i=html,css,bash,postman,swagger,maven&perline=7&theme=dark" />
+<!-- Cloud & CI/CD -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,linux&perline=7&theme=dark" alt="Docker, Kubernetes, AWS, Jenkins, GitHub Actions, Linux" />
+
+<!-- Observability & testing -->
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,postman&perline=7&theme=dark" alt="Prometheus, Grafana, Git, Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit" />
+<img src="https://cdn.simpleicons.org/swagger" width="40" height="40" alt="Swagger" />
+
+<!-- Payment integrations -->
+<img src="https://cdn.simpleicons.org/stripe" width="40" height="40" alt="Stripe" />
+<img src="https://cdn.simpleicons.org/lemonsqueezy" width="40" height="40" alt="Lemon Squeezy" />
+
+<!-- AI engineering -->
+<img src="https://skillicons.dev/icons?i=python,fastapi&perline=7&theme=dark" alt="Python, FastAPI" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="40" height="40" alt="DeepSeek" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit" />
+
+**AI engineering:** LLM tool calling · Local embeddings · PDF retrieval (RAG)
 
 </div>
 
@@ -126,13 +154,13 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
-| **Objectives Tracker** | Web app for subsidiary objective tracking with RBAC & audit trails | Node.js, React, SQL Server, Docker |
-| **AuthJWT-SpringBoot** | Secure auth system with JWT & email verification | Java, Spring Boot, JWT |
-| **Car Rental Dashboard** | Vehicle, booking & payment management platform | Spring Boot, Angular, PostgreSQL |
-| **Job Application Tracker** | Recruiter & job application management backend | Java, Spring Boot, REST |
-| **Movie Microservices Platform** | Distributed backend with CI/CD & service discovery | Spring Boot, Docker, Jenkins |
-| **Remote Job Scraper** | Automated job fetcher sending results to Telegram | Java, APIs, Automation |
-| **Ecommerce API** | Full-featured backend with auth, cart & orders | Spring Boot, PostgreSQL, JWT |
+| [**AgentOps**](https://github.com/mouadrarhib/AgentOps) | Personal customer-support app with backend-validated DeepSeek tool calls for order lookup and ticket creation | Spring Boot, React, TypeScript, PostgreSQL |
+| [**Depthly**](https://getdepthly.com/) | Live OMBRIVA LLC product for focus sessions, task management, analytics, and subscriptions | React, TypeScript, Supabase, Lemon Squeezy |
+| [**TenantHub**](https://github.com/mouadrarhib/tenanthub) | Personal project in progress with seven Spring Boot services, event messaging, and observability | Spring Boot, PostgreSQL, Kafka, Redis, Kubernetes |
+| [**PDF RAG & Tool-Calling API**](https://github.com/mouadrarhib/weather-tool-calling-demo) | Learning project in progress that retrieves PDF passages with page references and skips generation when evidence is insufficient | Python, FastAPI, Embeddings |
+| **Objectives Tracker** | Groupe Auto Hall internship project for tracking sales and targets with role permissions and audit trails | Express, React, TypeScript, SQL Server, Python |
+| **Car Rental Platform** | Personal project with booking availability checks, pricing, and confirmations, deployed on AWS EC2 | Spring Boot, Angular, PostgreSQL, Docker |
+| [**Car Rental Dashboard**](https://github.com/mouadrarhib/CarRental-Dashboard-Demo) | Separate Angular/Supabase dashboard demo for vehicle and booking management | Angular, Supabase |
 
 </div>
 
@@ -141,10 +169,10 @@ languages: [Arabic (Native), French (Professional), English (Professional)]
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |---|---|---|
-| Master's in Big Data & AI | Sup Technology, Casablanca 🇲🇦 | 2023 – 2025 |
-| Master's in Internet Technologies (Software Eng.) | Université de Pau, France 🇫🇷 | 2023 – 2025 |
-| Bachelor's in Web & Mobile Development | ULCO, France 🇫🇷 | 2020 – 2023 |
-| Bachelor's in Computer Engineering (MIAGE) | Sup Technology, Casablanca 🇲🇦 | 2020 – 2023 |
+| Master en informatique — parcours Technologies de l’Internet | Université de Pau et des Pays de l’Adour, France 🇫🇷 | 2024 – 2025 |
+| Diplôme Bac+5 — Big Data et Intelligence Artificielle | Sup’Technology, Casablanca 🇲🇦 | 2025 |
+| Licence professionnelle — Développement Internet et Mobile | Université du Littoral Côte d’Opale, France 🇫🇷 | 2022 – 2023 |
+| Diplôme Bac+3 — Ingénierie informatique, option MIAGE | Sup’Technology, Casablanca 🇲🇦 | 2023 |
 
 ---
 
